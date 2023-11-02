@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+ ![Captura de Tela 2023-11-01 às 21 57 34](https://github.com/Marciocoutinho/DevBot/assets/37118043/7d655108-2b3d-498e-93f6-d48b2d348804)
 </p>
 
 ## 🚀 Tecnologias
@@ -29,5 +29,5 @@ O DevBot é um chat que usa a IA do ChatGPT4 para responder e interagir com o us
 ## 🔖 Layout
 
 Feito com ♥ by MarcioCoutinho
-![Captura de Tela 2023-11-01 às 21 57 34](https://github.com/Marciocoutinho/DevBot/assets/37118043/7d655108-2b3d-498e-93f6-d48b2d348804)
+
 
