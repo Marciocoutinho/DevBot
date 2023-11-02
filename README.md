@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevBot é um chat que usa a IA do ChatGPT4 para responder e interagir com o usuário.
 
-- [Acesse o projeto finalizado, online]([https://marciocoutinho.github.io/devlinks/](https://dev-bot-neon.vercel.app/))
+- [Acesse o projeto finalizado, online]([https://marciocoutinho.github.io/devlinks/](https://dev-bot-neon.vercel.app/)
 
 ## 🔖 Layout
 
